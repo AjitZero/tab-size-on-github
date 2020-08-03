@@ -6,5 +6,5 @@
 table.diff-table,
 .markdown-body pre,
 body > pre {
-	tab-size: 4 !important;
+	tab-size: 2 !important;
 }
